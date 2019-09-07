@@ -1,0 +1,412 @@
+{
+    "phrases": [
+        {
+            "text": "Hello!",
+            "level": "0"
+        },
+        {
+            "text": "Exoplanet",
+            "level": "1"
+        },
+        {
+            "text": "Emoticons",
+            "level": "1"
+        },
+        {
+            "text": "Hashtags",
+            "level": "1"
+        },
+        {
+            "text": "Plagiarism",
+            "level": "1"
+        },
+        {
+            "text": "Robots",
+            "level": "1"
+        },
+        {
+            "text": "Holograms",
+            "level": "1"
+        },
+        {
+            "text": "Facebooking",
+            "level": "1"
+        },
+        {
+            "text": "Dependency",
+            "level": "1"
+        },
+        {
+            "text": "Download",
+            "level": "1"
+        },
+        {
+            "text": "Drones",
+            "level": "1"
+        },
+        {
+            "text": "Web pages",
+            "level": "2"
+        },
+        {
+            "text": "Interactive messages",
+            "level": "2"
+        },
+        {
+            "text": "Danger zones",
+            "level": "2"
+        },
+        {
+            "text": "Digital world",
+            "level": "2"
+        },
+        {
+            "text": "Identity theft",
+            "level": "2"
+        },
+        {
+            "text": "Copyright infringement ",
+            "level": "2"
+        },
+        {
+            "text": "Electric motors",
+            "level": "2"
+        },
+        {
+            "text": "Space ships",
+            "level": "2"
+        },
+        {
+            "text": "Space traveling ",
+            "level": "2"
+        },
+        {
+            "text": "Internet addiction",
+            "level": "2"
+        },
+        {
+            "text": "Hot apps nearby",
+            "level": "3"
+        },
+        {
+            "text": "Apps load quickly",
+            "level": "3"
+        },
+        {
+            "text": "Technology creates dependencies.",
+            "level": "3"
+        },
+        {
+            "text": "Impact of technology",
+            "level": "3"
+        },
+        {
+            "text": "Sleep disruption consequences",
+            "level": "3"
+        },
+        {
+            "text": "Computers increase productivity.",
+            "level": "3"
+        },
+        {
+            "text": "Storing and accessing",
+            "level": "3"
+        },
+        {
+            "text": "Understanding of data",
+            "level": "3"
+        },
+        {
+            "text": "Entertainment and connectivity",
+            "level": "3"
+        },
+        {
+            "text": "Stay in touch",
+            "level": "3"
+        },
+        {
+            "text": "Human relationships versus technology",
+            "level": "4"
+        },
+        {
+            "text": "Advantages of online technology",
+            "level": "4"
+        },
+        {
+            "text": "Different simulators and facilities",
+            "level": "4"
+        },
+        {
+            "text": "Space and earth sciences",
+            "level": "4"
+        },
+        {
+            "text": "Advanced mission training phase",
+            "level": "4"
+        },
+        {
+            "text": "Facebook's and Twitter's Popularity",
+            "level": "4"
+        },
+        {
+            "text": "Decline of Facebook users",
+            "level": "4"
+        },
+        {
+            "text": "Robots are becoming popular.",
+            "level": "4"
+        },
+        {
+            "text": "Functions of modern vehicles",
+            "level": "4"
+        },
+        {
+            "text": "Computer chips and circuitry",
+            "level": "4"
+        },
+        {
+            "text": "The new wave of innovations",
+            "level": "5"
+        },
+        {
+            "text": "Pros and cons of technology",
+            "level": "5"
+        },
+        {
+            "text": "Living in a tech world",
+            "level": "5"
+        },
+        {
+            "text": "Tech tools for positive change",
+            "level": "5"
+        },
+        {
+            "text": "Danger zones in a digital world",
+            "level": "5"
+        },
+        {
+            "text": "Technology gives access to information.",
+            "level": "5"
+        },
+        {
+            "text": "Computer technology improves fast communication.",
+            "level": "5"
+        },
+        {
+            "text": "Online education and teaching courses",
+            "level": "5"
+        },
+        {
+            "text": "Curiosity and exploration are vital.",
+            "level": "5"
+        },
+        {
+            "text": "Downloading an app is easy.",
+            "level": "5"
+        },
+        {
+            "text": "Inventions that have changed our lives",
+            "level": "6"
+        },
+        {
+            "text": "Tech tools work as time savers.",
+            "level": "6"
+        },
+        {
+            "text": "Tech tools improve communication and mobility.",
+            "level": "6"
+        },
+        {
+            "text": "Technology allows people to be innovative.",
+            "level": "6"
+        },
+        {
+            "text": "Internet at the speed of lightning",
+            "level": "6"
+        },
+        {
+            "text": "Astronauts tend to be investigative people.",
+            "level": "6"
+        },
+        {
+            "text": "Geometry is somehow related to holograms.",
+            "level": "6"
+        },
+        {
+            "text": "Sometimes, holography makes use of silver.",
+            "level": "6"
+        },
+        {
+            "text": "Holograms change as you move around.",
+            "level": "6"
+        },
+        {
+            "text": "The use smartphones in academic communities",
+            "level": "6"
+        },
+        {
+            "text": "Smartphones have changed the way people interact.",
+            "level": "7"
+        },
+        {
+            "text": "Apps require ongoing updates to remain relevant.",
+            "level": "7"
+        },
+        {
+            "text": "Technological innovations are used in different fields.",
+            "level": "7"
+        },
+        {
+            "text": "Challenging the boundaries of what we know",
+            "level": "7"
+        },
+        {
+            "text": "At present, smartphone technology is rapidly evolving.",
+            "level": "7"
+        },
+        {
+            "text": "Technology brings different benefits to the workplace.",
+            "level": "7"
+        },
+        {
+            "text": "Gaming apps are quite common among youngsters.",
+            "level": "7"
+        },
+        {
+            "text": "Scientists tend to be curious and objective.",
+            "level": "7"
+        },
+        {
+            "text": "Some robots can simulate human-like facial features.",
+            "level": "7"
+        },
+        {
+            "text": "Holograms require the interference of light beams.",
+            "level": "7"
+        },
+        {
+            "text": "How to stop apps from tracking your location",
+            "level": "8"
+        },
+        {
+            "text": "Social networks allow people to keep in touch.",
+            "level": "8"
+        },
+        {
+            "text": "In some cases, social networks lead to cyberbullying.",
+            "level": "8"
+        },
+        {
+            "text": "Social networks can become a distraction for learners.",
+            "level": "8"
+        },
+        {
+            "text": "In some specific circumstances, technology reduces human effort.",
+            "level": "8"
+        },
+        {
+            "text": "NASA stands for National Aeronautics and Space Administration.",
+            "level": "8"
+        },
+        {
+            "text": "Pilot astronauts are responsible of the mission success.",
+            "level": "8"
+        },
+        {
+            "text": "Experienced astronauts become mentors and advisors to trainees.",
+            "level": "8"
+        },
+        {
+            "text": "Many people cannot imagine their lives without smartphones.",
+            "level": "8"
+        },
+        {
+            "text": "Mobile users spend much time surfing the web.",
+            "level": "8"
+        },
+        {
+            "text": "Factory workers use robots that make their jobs easier.",
+            "level": "9"
+        },
+        {
+            "text": "Currently, it is possible to find robots with interactives.",
+            "level": "9"
+        },
+        {
+            "text": "Astronauts are trained to pilot or travel in spacecrafts.",
+            "level": "9"
+        },
+        {
+            "text": "The use of apps multiplies the benefits of smartphones.",
+            "level": "9"
+        },
+        {
+            "text": "Computer technology includes machines that perform calculations or services.",
+            "level": "9"
+        },
+        {
+            "text": "Usually, astronauts are known for being intellectual and introspective.",
+            "level": "9"
+        },
+        {
+            "text": "NASA scientists analyze programs to explore the solar system.",
+            "level": "9"
+        },
+        {
+            "text": "Using social networks might lead to sedentary lifestyle habits.",
+            "level": "9"
+        },
+        {
+            "text": "The use of computers increases the development of skills.",
+            "level": "9"
+        },
+        {
+            "text": "Mobile apps take much time and money to develop.",
+            "level": "9"
+        },
+        {
+            "text": "Computer technology has a great impact on travelling and education.",
+            "level": "10"
+        },
+        {
+            "text": "Addiction and procrastination might result from the overuse of technology.",
+            "level": "10"
+        },
+        {
+            "text": "Interest to find out about the unknown is part of space exploration.",
+            "level": "10"
+        },
+        {
+            "text": "One purpose of space exploration is to ensure human survival.",
+            "level": "10"
+        },
+        {
+            "text": "Usually, astronaut candidates learn about vehicle and space station systems.",
+            "level": "10"
+        },
+        {
+            "text": "NASA makes satellites that help scientists learn more about Earth.",
+            "level": "10"
+        },
+        {
+            "text": "Life-like robots and space robots are two types of robots.",
+            "level": "10"
+        },
+        {
+            "text": "When spacewalks are required, astronauts must wear a space suit",
+            "level": "10"
+        },
+        {
+            "text": "There are two types of astronauts, mission specialist and pilot astronauts.",
+            "level": "10"
+        },
+        {
+            "text": "Mission specialist astronauts can encourage learners to join space programs.",
+            "level": "10"
+        },
+        {
+            "text": "GoodBye!",
+            "level": "11"
+        }
+    ]
+}

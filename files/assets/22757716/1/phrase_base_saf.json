@@ -1,0 +1,412 @@
+{
+    "phrases": [
+        {
+            "text": "Hello!",
+            "level": "0"
+        },
+        {
+            "text": "These",
+            "level": "1"
+        },
+        {
+            "text": "Look",
+            "level": "1"
+        },
+        {
+            "text": "People",
+            "level": "1"
+        },
+        {
+            "text": "Differ",
+            "level": "1"
+        },
+        {
+            "text": "Wallet",
+            "level": "1"
+        },
+        {
+            "text": "Hay",
+            "level": "1"
+        },
+        {
+            "text": "Food",
+            "level": "1"
+        },
+        {
+            "text": "Vacation",
+            "level": "1"
+        },
+        {
+            "text": "Effort",
+            "level": "1"
+        },
+        {
+            "text": "Plaid",
+            "level": "1"
+        },
+        {
+            "text": "I'm late!",
+            "level": "2"
+        },
+        {
+            "text": "Welcome back!",
+            "level": "2"
+        },
+        {
+            "text": "Turn around",
+            "level": "2"
+        },
+        {
+            "text": "No problem!",
+            "level": "2"
+        },
+        {
+            "text": "What's new?",
+            "level": "2"
+        },
+        {
+            "text": "Excuse me!",
+            "level": "2"
+        },
+        {
+            "text": "Good cookies!",
+            "level": "2"
+        },
+        {
+            "text": "Full moon!",
+            "level": "2"
+        },
+        {
+            "text": "New key",
+            "level": "2"
+        },
+        {
+            "text": "Go away",
+            "level": "2"
+        },
+        {
+            "text": "First things first.",
+            "level": "3"
+        },
+        {
+            "text": "Learn basic verbs.",
+            "level": "3"
+        },
+        {
+            "text": "Turn it off.",
+            "level": "3"
+        },
+        {
+            "text": "See you later.",
+            "level": "3"
+        },
+        {
+            "text": "Don't forget.",
+            "level": "3"
+        },
+        {
+            "text": "Sermon in church.",
+            "level": "3"
+        },
+        {
+            "text": "I'm only joking.",
+            "level": "3"
+        },
+        {
+            "text": "I don't know.",
+            "level": "3"
+        },
+        {
+            "text": "This is it.",
+            "level": "3"
+        },
+        {
+            "text": "What is this?",
+            "level": "3"
+        },
+        {
+            "text": "This is my sister.",
+            "level": "4"
+        },
+        {
+            "text": "Lynn ate lean meat.",
+            "level": "4"
+        },
+        {
+            "text": "Potato chips are cheap.",
+            "level": "4"
+        },
+        {
+            "text": "Make haste, not waste!",
+            "level": "4"
+        },
+        {
+            "text": "Fred left a message!",
+            "level": "4"
+        },
+        {
+            "text": "Is that a fact?",
+            "level": "4"
+        },
+        {
+            "text": "Can you top it? ",
+            "level": "4"
+        },
+        {
+            "text": "Who took my book?",
+            "level": "4"
+        },
+        {
+            "text": "What does it mean?.",
+            "level": "4"
+        },
+        {
+            "text": "At a moment's notice!",
+            "level": "4"
+        },
+        {
+            "text": "Summer is warmer than winter.",
+            "level": "5"
+        },
+        {
+            "text": "A turn for the worse.",
+            "level": "5"
+        },
+        {
+            "text": "Don't complain about the problem!",
+            "level": "5"
+        },
+        {
+            "text": "How much does coffee cost?",
+            "level": "5"
+        },
+        {
+            "text": "Tony Jones broke his toe.",
+            "level": "5"
+        },
+        {
+            "text": "Customs come from many countries.",
+            "level": "5"
+        },
+        {
+            "text": "The cooks prepare unique menus.",
+            "level": "5"
+        },
+        {
+            "text": "Pull him from the pool.",
+            "level": "5"
+        },
+        {
+            "text": "Ron ran in the rain.",
+            "level": "5"
+        },
+        {
+            "text": "Breakfast is ready at 10.",
+            "level": "5"
+        },
+        {
+            "text": "Don't go down the old road.",
+            "level": "6"
+        },
+        {
+            "text": "Did you give him his gift?",
+            "level": "6"
+        },
+        {
+            "text": "The plane from Spain came late!",
+            "level": "6"
+        },
+        {
+            "text": "Don't forget to send the letter!",
+            "level": "6"
+        },
+        {
+            "text": "Peter is a happily married man.",
+            "level": "6"
+        },
+        {
+            "text": "My watch stopped at 5.",
+            "level": "6"
+        },
+        {
+            "text": "He proved he knew the truth.",
+            "level": "6"
+        },
+        {
+            "text": "Could you eat 10 sugar cookies?",
+            "level": "6"
+        },
+        {
+            "text": "The beef stood for an hour.",
+            "level": "6"
+        },
+        {
+            "text": "My cousin is my uncle's son.",
+            "level": "6"
+        },
+        {
+            "text": "It will be feast today, famine tomorrow.",
+            "level": "7"
+        },
+        {
+            "text": "They made a mistake in today's paper.",
+            "level": "7"
+        },
+        {
+            "text": "My bus got stuck in the mud.",
+            "level": "7"
+        },
+        {
+            "text": "No one knows how old Joe is.",
+            "level": "7"
+        },
+        {
+            "text": "My cousin will arrive at seven o'clock.",
+            "level": "7"
+        },
+        {
+            "text": "The razor is sharper than the scissors.",
+            "level": "7"
+        },
+        {
+            "text": "I am searching for a song tonight.",
+            "level": "7"
+        },
+        {
+            "text": "I am so done with thinking through.",
+            "level": "7"
+        },
+        {
+            "text": "What is the point in saying that?",
+            "level": "7"
+        },
+        {
+            "text": "I know it is hard to remember.",
+            "level": "7"
+        },
+        {
+            "text": "A friend in need is a friend indeed.",
+            "level": "8"
+        },
+        {
+            "text": "Dan, the great Dane, sleeps in the den.",
+            "level": "8"
+        },
+        {
+            "text": "The house at the lake lacks a lock.",
+            "level": "8"
+        },
+        {
+            "text": "The group flew to New York in June.",
+            "level": "8"
+        },
+        {
+            "text": "The cabins are roomy and full of light.",
+            "level": "8"
+        },
+        {
+            "text": "Come and have some fun in the sun.",
+            "level": "8"
+        },
+        {
+            "text": "I just had a run of tough luck.",
+            "level": "8"
+        },
+        {
+            "text": "What is the reward for the lost dog?",
+            "level": "8"
+        },
+        {
+            "text": "I wonderful picture is showing at the theater.",
+            "level": "8"
+        },
+        {
+            "text": "I miss the taste of a sweeter life.",
+            "level": "8"
+        },
+        {
+            "text": "Women had a chance to cram into small boats.",
+            "level": "9"
+        },
+        {
+            "text": "The U.S. Constitution is the basis of our democracy.",
+            "level": "9"
+        },
+        {
+            "text": "They tell you I'm difficult, but so are they.",
+            "level": "9"
+        },
+        {
+            "text": "he says they are walking in a straight line.",
+            "level": "9"
+        },
+        {
+            "text": "Nothing in this world could ever bring them down.",
+            "level": "9"
+        },
+        {
+            "text": "I like to think that we had it all.",
+            "level": "9"
+        },
+        {
+            "text": "I was there for you in your darkest night.",
+            "level": "9"
+        },
+        {
+            "text": "You are the drug that I am addicted to.",
+            "level": "9"
+        },
+        {
+            "text": "I could show you what you want to see.",
+            "level": "9"
+        },
+        {
+            "text": "I know that we will be safe and sound.",
+            "level": "9"
+        },
+        {
+            "text": "I wish that I could be like the cool kids.",
+            "level": "10"
+        },
+        {
+            "text": "If our love is tragedy, why are you my remedy?",
+            "level": "10"
+        },
+        {
+            "text": "The captain and other passengers could not abandon the ship.",
+            "level": "10"
+        },
+        {
+            "text": "Did you make a long distance call to Boston yesterday?",
+            "level": "10"
+        },
+        {
+            "text": "If you can't get what you want, you can get me!",
+            "level": "10"
+        },
+        {
+            "text": "Can I have your daughter for the rest of my life?",
+            "level": "10"
+        },
+        {
+            "text": "I don't have the strength to resist or control you.",
+            "level": "10"
+        },
+        {
+            "text": "I'd give it all away just to get you back.",
+            "level": "10"
+        },
+        {
+            "text": "And a blister on the tongue means someone is lying.",
+            "level": "10"
+        },
+        {
+            "text": "That's why I usually lose a few pounds before the cruise.",
+            "level": "10"
+        },
+        {
+            "text": "GoodBye!",
+            "level": "11"
+        }
+    ]
+}
