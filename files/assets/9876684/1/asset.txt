@@ -1,0 +1,15 @@
+NOTAS:
+    + Publicar Juego
+    
+    ---------------------------V2
+    
+    + Dinámica/jefe Final.
+    + Mejorar UI. (feedback, password)
+    
+
+
+RECURSOS:
+
+https://playcanvas.com/editor/scene/446486
+
+https://playcanvas.com/editor/scene/402575
