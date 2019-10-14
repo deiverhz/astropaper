@@ -46,15 +46,18 @@
 <body>
     <script src="start.js"></script>
     <script src="loading.js"></script>
+	<script src="detect.min.js"></script>
     <script>
 
     function myBrowser() { 
-        if(!(navigator.userAgent.indexOf("Chrome") != -1))
+    	var user = detect.parse(navigator.userAgent);
+        if (user.browser.family !== 'Chrome')
         {
             alert('Debes utilizar Chrome para poder jugar AstroPaper');
+            window.location.href = "https://www.mep.go.cr/educatico/astropaper-phonetic-journey";
         }
     }
-        
+ 
     myBrowser(); 
     </script>
 </body>
